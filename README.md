@@ -3,8 +3,8 @@
 Projeto estático em HTML, sem etapa de build ou dependências externas.
 
 - **`index.html`** — página inicial para GitHub Pages.
-- **`plataforma_treinamentos.html`** — fonte da plataforma EAD, com sessões e microtrilhas, incluindo o menu Faturamento separado em Abertura de Faturamento e Faturamento Manual.
-- **`treinamento_faturamento_usecloud.pdf`** — caderno de apoio do participante sobre emissão de NF-e no UseCloud (21 páginas; duração sugerida de 75 minutos), consultado pela trilha de Faturamento.
+- **`plataforma_treinamentos.html`** — fonte da plataforma EAD. O menu Faturamento possui duas trilhas próprias: **Abertura de Faturamento** e **Faturamento Manual**. As aulas incorporam capturas de tela e orientações do caderno em conteúdo visual offline; cada trilha inclui exercícios, checklist/retorno e referência técnica. A divisão didática sugerida reserva 40 min para Abertura e 35 min para Manual (75 min no conjunto).
+- **`treinamento_faturamento_usecloud.pdf`** — caderno de apoio do participante sobre emissão de NF-e no UseCloud (21 páginas; duração sugerida de 75 minutos), fonte completa das trilhas de Faturamento; o original permanece disponível como material de consulta complementar.
 - **`treinamento.html`** — apresentação de treinamento anterior, preservada.
 
 ## Uso local
